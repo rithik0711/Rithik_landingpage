@@ -160,7 +160,7 @@ position: center; }
 .location {
     position: absolute;
     width: 230px;
-    height: 310px;
+    height: 300px;
     background-color: rgb(164, 226, 244);
     border-radius: 15px;
     background-image: url("location.jpg");
